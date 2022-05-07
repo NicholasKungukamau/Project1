@@ -1,15 +1,161 @@
-*{
-    padding: 0;
-    margin: 0;
-}
 .buttons{
     color: white;
     background-color: #EC4067;
+    padding: 13px;
+    font-size: larger;
 }
-body{
+nav{
+    display: flex;
+    justify-content:space-between;
+  }
+  nav> .bar> h3{
+      color: #EC4067;
+      font-size: 30px;
+  }
+  nav> .bar> .mor> .sc{
+      color: black;
+  }
+  nav> .bar {
+      margin: 15px;
+      padding-left: 15px;
+  }
+  nav > .tabs> ul > li{
+    display: inline-block;
+    padding: 10px;
+  }
+  nav > .tabs> ul > li > .buttons{
+    padding: 10px;
+    color: white;
+    background-color: #EC4067;
+  }
+#sectabout> .moringa> .leftside> .nurt{
+    color: #EC4067;
+    font-size: 20px;
+    font-size: large;
+}
+.ex {
+    padding: 13px;
+    color: #EC4067;
+    border-color: #EC4067;
+    width: 100px;
     background-color: white;
-    padding: 0;
-    margin: 0;
-  }
-  
-  }
+    font-size: large;
+}
+
+#sectabout{
+    padding-top: 150px;
+    padding-left: 75px;
+display: flex;
+width: 50%;
+}
+.rightsid{
+padding-left: 100px;
+}
+.so {
+    font-weight: lighter;
+    font-size: medium;
+    display: inline;
+}
+#stories{
+    padding-top: 150px;
+    padding-left: 75px;
+    width: 50%; 
+}
+.leftsid{
+    padding-top: 30px;
+}
+.orient {
+    padding-left: 300px;
+    margin-left: 200px;
+}
+#board{
+    padding-top: 50px;
+    padding-left: 75px;
+display: flex;
+width: 50%;
+}
+.img {
+    padding-left: 120px;
+    width: 80%;
+    margin-left: 75px;
+}
+#grad {
+    padding-top: 50px;
+    padding-left: 75px;
+display: flex;
+width: 50%;
+}
+.pic {
+    padding-right: 120px;
+    width: 80%;
+    margin-right: 75px;
+}
+.skill{
+    font-weight: lighter;
+    font-size: medium;
+}
+.tm{
+    font-weight: lighter;
+    padding-left: 75px;
+}
+.web{
+    color: #EC4067;
+}
+#tem {
+    display: flex;
+    padding-inline-start: 75px;
+}
+.ros {
+    padding-right: 30px;
+}
+.alb{
+    padding-right: 30px;
+}
+.katr {
+    padding-right: 30px;
+}
+
+.proj{
+    font-size: x-large;
+padding-top: 100px; 
+padding-left: 75px;
+}
+.hop {
+    font-weight: lighter;
+    font-size: medium;
+}
+.cool {
+    color: #EC4067;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+#bike{
+    padding-left: 75px;
+    width: 50%;
+}
+.biki {
+    padding-left: 120px;
+    margin-left: 75px;
+}
+#bike> .left, .right{
+    width: 50%;
+}
+#bike> .left {
+padding-right: 100px;
+}
+.not{
+    color: #EC4067;
+    font-size: xx-large;
+}
+.go{
+    font-size: x-large;
+    font-weight: lighter;
+}
+.contact {
+    color: #EC4067;
+}
+.design {
+    margin-left: 800px;
+    font-size: larger;
+    font-weight: bolder;
+}
