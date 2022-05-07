@@ -1,4 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .buttons{
     color: white;
     background-color: #EC4067;
 }
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+  }
+  
+  }
